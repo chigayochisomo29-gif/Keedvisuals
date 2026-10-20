@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Keed Cinema</string>
+    <string name="app_full_title">KEED CINEMA CAMERA</string>
+    <string name="brand_subtitle">By Keed Visuals</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_rationale">Keed Cinema Camera requires access to your camera and microphone to capture cinematic video and photographs with manual hardware controls.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="record_video">Record Video</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="gallery_title">Media Gallery</string>
+    <string name="settings_title">Cinema Settings</string>
+</resources>
